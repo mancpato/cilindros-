@@ -9,7 +9,7 @@ public class Deposito {
 
     //Constructor sin parámetros auxiliar
     public Deposito () { //Lo que hace es llamar al constructor con parámetros pasándole valores vacíos
-        this(0,0,"");            } //Cierre del constructor
+        this(0,0,"ABCD");            } //Cierre del constructor
 
 
     //Constructor de la clase que pide los parámetros necesarios
